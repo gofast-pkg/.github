@@ -21,7 +21,7 @@ And you ? What did you think ?
 * Each packages need to be idempotent and use a Hexagonal architecture (auto loading from environment variables)
 * Repositories need to respect the semver versionning
 
-## Coverred subject
+## Coverred subject(s)
 
 I will develop here only that i need for my personnal projects, but i will think the packages for a genaral usage to cover your common usages.
 
